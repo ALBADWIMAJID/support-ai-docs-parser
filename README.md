@@ -21,7 +21,12 @@ A Python-based utility for extracting clean, informative content from support/do
 ## 📁 Output Structure
 
 
----
+---client_support_output/ ├── html/ # Cleaned HTML content ├── text/ # Extracted plain text └── pdf/ # Converted PDF documents
+
+yaml
+Copy
+Edit
+
 
 ## 📦 Installation
 
