@@ -109,7 +109,7 @@ playwright install
 <p>MIT License — Free to use and modify for personal and commercial use.</p>
 
 <h2>🙋‍♂️ Author</h2>
-<p>Developed with ❤️ by <strong>[Your Name]</strong>. Contributions welcome!</p>
+<p>Developed with ❤️ by <strong>[Majid Albadwi]</strong>. Contributions welcome!</p>
 
 </body>
 </html>
