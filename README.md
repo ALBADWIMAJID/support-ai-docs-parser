@@ -1,45 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>support-ai-docs-parser - README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 40px;
-      line-height: 1.6;
-      max-width: 900px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      color: #2980b9;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 5px;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
-</head>
-<body>
+
 
 <h1>🧠 support-ai-docs-parser</h1>
 
